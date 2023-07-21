@@ -1,0 +1,140 @@
+db.song.insertMany([
+  {
+    "title": "Dull Knives",
+    "artist": "Imagine Dragons",
+    "album": "Mercury"
+  },
+  {
+    "title": "I'm So Sorry",
+    "artist": "Imagine Dragons",
+    "album": "Smoke + Mirrors"
+  },
+  {
+    "title": "Viva la Vida",
+    "artist": "Coldplay",
+    "album": "Death and All His Friends"
+  },
+  {
+    "title": "Besok Mungkin Kita Sampai",
+    "artist": "Hindia",
+    "album": "Menari Dengan Bayangan"
+  },
+  {
+    
+    "title": "Evaluasi",
+    "artist": "Hindia",
+    "album": "Menari Dengan Bayangan"
+  },
+  {
+    
+    "title": "Do I Wanna Know",
+    "artist": "Arctic Monkeys",
+    "album": "AM"
+  },
+  {
+    "title": "R U Mine?",
+    "artist": "Arctic Monkeys",
+    "album": "AM"
+  },
+  {
+    "title": "I Wanna Be Yours",
+    "artist": "Arctic Monkeys",
+    "album": "AM"
+  },
+  {
+  
+  "title": "Television / So Far So Good",
+  "artist": "Rex Orange County",
+  "album": "Apricot Princess"
+},
+{
+  "title": "Never Enough",
+  "artist": "Rex Orange County",
+  "album": "Apricot Princess"
+}]);
+
+db.artist.insertMany([
+    {
+  "name": "Conan Gray",
+  "date of birth": "5 December 1998",
+  "genre": "pop"
+    },
+    {
+  "name": "Taylor Swift",
+  "date of birth": "13 December 1989",
+  "genre": "pop"
+},
+{
+  "name": "Lana Del Rey",
+  "date of birth": "21 June 1985",
+  "genre": "pop"
+},
+{
+  "name": "Dua Lipa",
+  "date of birth": "22 August 1995",
+  "genre": "pop"
+},
+{
+  "name": "Rendy Pandugo",
+  "date of birth": "7 May 1985",
+  "genre": "pop"
+},
+{
+  "name": "Baskara Putra",
+  "date of birth": "22 February 1994",
+  "genre": "indie rock"
+}
+]);
+
+db.popularSong.insertMany([
+    {
+  "title": "Shape of You",
+  "play_count": 50000000,
+  "period": "2017-2018"
+},
+{
+  "title": "Despacito",
+  "play_count": 45000000,
+  "period": "2017-2018"
+},
+{
+  "title": "Uptown Funk",
+  "play_count": 40000000,
+  "period": "2014-2015"
+},
+{
+  "title": "Thinking Out Loud",
+  "play_count": 35000000,
+  "period": "2014-2015"
+},
+{
+  "title": "Closer",
+  "play_count": 30000000,
+  "period": "2016-2017"
+},
+{
+  "title": "Shape of My Heart",
+  "play_count": 25000000,
+  "period": "2000-2001"
+},
+{
+  "title": "See You Again",
+  "play_count": 20000000,
+  "period": "2015-2016"
+},
+{
+  "title": "Roar",
+  "play_count": 15000000,
+  "period": "2013-2014"
+},
+{
+  "title": "Someone Like You",
+  "play_count": 10000000,
+  "period": "2011-2012"
+},
+{
+  "title": "Faded",
+  "play_count": 5000000,
+  "period": "2016-2017"
+}
+]);

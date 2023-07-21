@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "64b5433f5439ad0085d0fef2"
+  },
+  "name": "Nadhif Basalamah",
+  "date of birth": "30 May 2000",
+  "genre": "pop"
+},
+{
+  "_id": {
+    "$oid": "64b548985439ad0085d0fef3"
+  },
+  "name": "Arash Buana",
+  "date of birth": "12 June 2003",
+  "genre": "pop"
+},
+{
+  "_id": {
+    "$oid": "64b548df5439ad0085d0fef4"
+  },
+  "name": "Olivia Rodrigo",
+  "date of birth": "20 February 2003",
+  "genre": "pop rock"
+},
+{
+  "_id": {
+    "$oid": "64b5494a5439ad0085d0fef5"
+  },
+  "name": "Sabrina Carpenter",
+  "date of birth": "11 May 1999",
+  "genre": "pop"
+},
+{
+  "_id": {
+    "$oid": "64b54add5439ad0085d0fef6"
+  },
+  "name": "Conan Gray",
+  "date of birth": "5 December 1998",
+  "genre": "pop"
+},
+{
+  "_id": {
+    "$oid": "64b54b015439ad0085d0fef7"
+  },
+  "name": "Taylor Swift",
+  "date of birth": "13 December 1989",
+  "genre": "pop"
+},
+{
+  "_id": {
+    "$oid": "64b54b485439ad0085d0fef8"
+  },
+  "name": "Lana Del Rey",
+  "date of birth": "21 June 1985",
+  "genre": "pop"
+},
+{
+  "_id": {
+    "$oid": "64b551fa5439ad0085d0fef9"
+  },
+  "name": "Dua Lipa",
+  "date of birth": "22 August 1995",
+  "genre": "pop"
+},
+{
+  "_id": {
+    "$oid": "64b5523e5439ad0085d0fefa"
+  },
+  "name": "Rendy Pandugo",
+  "date of birth": "7 May 1985",
+  "genre": "pop"
+},
+{
+  "_id": {
+    "$oid": "64b5528c5439ad0085d0fefb"
+  },
+  "name": "Baskara Putra",
+  "date of birth": "22 February 1994",
+  "genre": "indie rock"
+}]
